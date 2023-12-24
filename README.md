@@ -33,7 +33,7 @@ This repository serves as a comprehensive archive of READMEs and documentation f
 
 ## Issue Tracking and Support
 
-We understand that issues may arise, and thus we aim to provide comprehensive support to address any problems or questions you might have:
+I understand that issues may arise, and thus I aim to provide comprehensive support to address any problems or questions you might have:
 
 - **Issue Tracker**: Use the repository's issue tracker to report bugs, suggest enhancements, or view existing tickets.
 - **Discord Server**: Join our Discord server for direct support, community discussions, and the latest updates.
@@ -42,7 +42,7 @@ We understand that issues may arise, and thus we aim to provide comprehensive su
 
 For detailed questions, suggestions, or community support, please refer to our Discord server. The link can be found in the repository's description or by contacting the mod's maintainers.
 
-Thank you for choosing Pebble's GTS Overhauled for your server. We're committed to providing a quality mod and support experience.
+Thank you for choosing Pebble's GTS Overhauled for your server. I am committed to providing a quality mod and support experience.
 
 ---
 
